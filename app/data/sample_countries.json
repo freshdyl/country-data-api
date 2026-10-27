@@ -1,0 +1,364 @@
+[
+  {
+    "name": {
+      "common": "Canada",
+      "official": "Canada"
+    },
+    "cca2": "CA",
+    "cca3": "CAN",
+    "capital": [
+      "Ottawa"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 38250000,
+    "area": 9984670.0,
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "currencies": {
+      "CAD": {
+        "name": "Canadian dollar",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "United States",
+      "official": "United States of America"
+    },
+    "cca2": "US",
+    "cca3": "USA",
+    "capital": [
+      "Washington, D.C."
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "population": 329484123,
+    "area": 9372610.0,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "cca2": "BR",
+    "cca3": "BRA",
+    "capital": [
+      "Brasília"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "population": 212559409,
+    "area": 8515767.0,
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "cca2": "FR",
+    "cca3": "FRA",
+    "capital": [
+      "Paris"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 67391582,
+    "area": 551695.0,
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Germany",
+      "official": "Federal Republic of Germany"
+    },
+    "cca2": "DE",
+    "cca3": "DEU",
+    "capital": [
+      "Berlin"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 83240525,
+    "area": 357114.0,
+    "languages": {
+      "deu": "German"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Italy",
+      "official": "Italian Republic"
+    },
+    "cca2": "IT",
+    "cca3": "ITA",
+    "capital": [
+      "Rome"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "population": 59554023,
+    "area": 301336.0,
+    "languages": {
+      "ita": "Italian"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Switzerland",
+      "official": "Swiss Confederation"
+    },
+    "cca2": "CH",
+    "cca3": "CHE",
+    "capital": [
+      "Bern"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 8654622,
+    "area": 41284.0,
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "currencies": {
+      "CHF": {
+        "name": "Swiss franc",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Ghana",
+      "official": "Republic of Ghana"
+    },
+    "cca2": "GH",
+    "cca3": "GHA",
+    "capital": [
+      "Accra"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 31072945,
+    "area": 238533.0,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Nigeria",
+      "official": "Federal Republic of Nigeria"
+    },
+    "cca2": "NG",
+    "cca3": "NGA",
+    "capital": [
+      "Abuja"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "population": 206139587,
+    "area": 923768.0,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Japan",
+      "official": "Japan"
+    },
+    "cca2": "JP",
+    "cca3": "JPN",
+    "capital": [
+      "Tokyo"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "population": 125836021,
+    "area": 377930.0,
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "currencies": {
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "India",
+      "official": "Republic of India"
+    },
+    "cca2": "IN",
+    "cca3": "IND",
+    "capital": [
+      "New Delhi"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "population": 1380004385,
+    "area": 3287590.0,
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    },
+    "currencies": {
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Singapore",
+      "official": "Republic of Singapore"
+    },
+    "cca2": "SG",
+    "cca3": "SGP",
+    "capital": [
+      "Singapore"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "population": 5685807,
+    "area": 710.0,
+    "languages": {
+      "eng": "English",
+      "msa": "Malay",
+      "cmn": "Mandarin",
+      "tam": "Tamil"
+    },
+    "currencies": {
+      "SGD": {
+        "name": "Singapore dollar",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Australia",
+      "official": "Commonwealth of Australia"
+    },
+    "cca2": "AU",
+    "cca3": "AUS",
+    "capital": [
+      "Canberra"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 25687041,
+    "area": 7692024.0,
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "AUD": {
+        "name": "Australian dollar",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "New Zealand",
+      "official": "New Zealand"
+    },
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "capital": [
+      "Wellington"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "population": 5084300,
+    "area": 268838.0,
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    },
+    "currencies": {
+      "NZD": {
+        "name": "New Zealand dollar",
+        "symbol": ""
+      }
+    }
+  },
+  {
+    "name": {
+      "common": "Antarctica",
+      "official": "Antarctica"
+    },
+    "cca2": "AQ",
+    "cca3": "ATA",
+    "capital": [],
+    "region": "Antarctic",
+    "subregion": null,
+    "population": 1000,
+    "area": 14000000.0,
+    "languages": {},
+    "currencies": {}
+  }
+]
